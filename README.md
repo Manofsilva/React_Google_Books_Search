@@ -1,6 +1,6 @@
 # React_Google_Books_Search
 
-A '''React''' based Google Books Search app
+A ```React``` based Google Books Search app
 
 # Technologies used
 
