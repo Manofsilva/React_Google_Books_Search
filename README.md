@@ -18,7 +18,7 @@ A ```React``` based Google Books Search app where a user can search for books vi
 
 # Working Application
 
-A working version of the application can be found at: https://quiet-coast-82812.herokuapp.com/saved
+A working version of the application can be found at: https://booky-search.herokuapp.com/
 
 ### Demonstration of Application
 ![gif](GoogleBooks.gif)
